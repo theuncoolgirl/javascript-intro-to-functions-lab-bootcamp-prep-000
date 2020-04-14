@@ -11,5 +11,5 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 if (string.toUpperCase === string) {
-  return 'YES INDEED!'
+  return `YES INDEED!`
 }
